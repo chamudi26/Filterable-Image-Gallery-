@@ -67,6 +67,10 @@
  }
 
  @media(max-width:450px){
+
+    .container{
+        padding: 25px 20px;
+    }
     .container .image_container .image{
         width: 100%;
     }
